@@ -14,6 +14,6 @@ bash activate.sh
 ```
 
 ```
-cd url_shortener
+cd url_shortner
 bash activate.sh
 ```
