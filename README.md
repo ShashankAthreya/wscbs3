@@ -9,11 +9,11 @@ git clone https://github.com/ShashankAthreya/wscbs3.git
 Then you can activate each of the Dockerfiles by
 
 ```
-cd user-auth
+cd user_auth
 bash activate.sh
 ```
 
 ```
-cd url-shortener
+cd url_shortener
 bash activate.sh
 ```
